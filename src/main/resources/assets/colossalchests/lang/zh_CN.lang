@@ -1,0 +1,28 @@
+# General
+itemGroup.colossalchests=巨大箱子
+general.colossalchests.colossalchest.name=%s 巨大箱子 (%s)
+general.colossalchests.uncolossalchest.name=迷你箱子
+
+# Blocks
+tile.blocks.colossalchests.colossalChest.name=巨大箱子核心
+tile.blocks.colossalchests.colossalChest.info=需要建造巨大的箱子结构
+tile.blocks.colossalchests.chestWall.name=巨大箱子壁
+tile.blocks.colossalchests.chestWall.info=用来建造巨大箱子结构
+tile.blocks.colossalchests.interface.name=巨大箱子连接
+tile.blocks.colossalchests.interface.info=和管道漏斗交互
+tile.blocks.colossalchests.uncolossalChest.name=迷你箱子
+tile.blocks.colossalchests.uncolossalChest.info=最巨大的了!
+
+# Materials
+material.colossalchests.wood=木
+material.colossalchests.copper=铜
+material.colossalchests.iron=铁
+material.colossalchests.silver=银
+material.colossalchests.gold=金
+material.colossalchests.diamond=钻石
+
+# Multiblock
+multiblock.colossalchests.error.prefix=巨大箱子
+multiblock.colossalchests.error.prefix.info=结构错误
+multiblock.colossalchests.error.unexpected=未知的结构错误.
+multiblock.colossalchests.error.material=Found a block of material %s at %s, while %s was expected.
